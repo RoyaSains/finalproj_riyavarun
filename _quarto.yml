@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "riya_varun_finalassgn"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Research
+      - href: about.qmd
+        text: Authors
+      - href: resources.qmd
+        text: Resources
+      - text: Analysis
+        menu: 
+          - href: GTFS1226.ipynb
+            text: Transit Mapping
+          - href: social_vulnerability.qmd
+            text: Transit Vulnerability
+          - href: Combined.ipynb
+            text: Transit Priority
+          - href: final.qmd
+            text: Scope for Further Research
+
+format:
+  html:
+    highlight-style: solarized
+    theme: cosmo
+    css: styles.css
+    code-copy: true
+    code-overflow: wrap
+    toc: true

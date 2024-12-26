@@ -1,0 +1,10 @@
+---
+title: "Authors"
+jupyter: python3
+---
+
+### Scope for Further Research
+
+In the future, this analytical approach can serve as a powerful tool for evaluating whether a city's transit system effectively serves its most vulnerable populations. By combining network performance data with social vulnerability insights, we can pinpoint areas in need of targeted interventions, such as the introduction of bus lanes or transit signal prioritization. This methodology, initially applied to cities like Philadelphia, can be replicated in other U.S. cities, such as Washington D.C., Boston, Phoenix, and Portland, to assess the equity and efficiency of their transit systems.
+
+Moreover, the approach holds significant promise for regions with limited data, particularly in South Asia, where detailed transit system information such as GTFS data may not be readily available. Even in such contexts, the methodology can provide valuable insights into the accessibility of transit networks and their effectiveness in reaching low-income and vulnerable communities. By adapting this framework to local data availability and context, it is possible to identify gaps in service provision and opportunities for enhancing public transportation to better serve underserved populations. Ultimately, this approach, which balances social equity and operational efficiency, offers a comprehensive tool for advancing more inclusive, sustainable, and resilient transit solutions globally.
